@@ -12,7 +12,7 @@ feat/..  branches für einzelne features (wird in dev gemerged)
 prod branch (protected)
 
 ### Aufgabenverteilung
-Tobi: Backend
-Til: Frontend
-Tom: Fullstack
-Julius: Infra
+- Tobi: Backend
+- Til: Frontend
+- Tom: Fullstack
+- Julius: Infra
